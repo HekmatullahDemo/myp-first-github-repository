@@ -3,3 +3,5 @@ another file was created
 anotherfile.txt edited.
 
 another file was editted in feature-2 branch
+
+this was editted bcoz of git show-ref
